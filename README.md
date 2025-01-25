@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working on **exciting projects**!
 - 🌱 Currently learning **Node.js, Vue.js, MySql, AWS, NoSQL, HTML, and CSS**.
-- 📫 Reach me at **[sjrion01@gmail.com]**.
+- 📫 Reach me at **sjrion01@gmail.com**.
 
 ## 📊 GitHub Stats
 ![Rion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PackmarRionLouji&show_icons=true&theme=radical)
