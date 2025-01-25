@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 - 📫 Reach me at **sjrion01@gmail.com**.
 
 ## 📊 GitHub Stats
-![Rion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PackmarRionLouji&show_icons=true&theme=radical)
+![Rion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PackmarRionLouji&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-## 🏆 Contribution Graph
-![Snake Animation](https://github.com/PackmarRionLouji/PackmarRionLouji/blob/output/github-contribution-grid-snake.svg)
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=PackmarRionLouji&theme=gruvbox&no-frame=true&margin-w=15)
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PackmarRionLouji&theme=rogue)
+
