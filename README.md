@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I’m Rion Louji 👋
-
+<!--
 🚀 About Me
 
 I’m a passionate software engineer who loves exploring new technologies and building impactful projects. With expertise in JavaScript, Python, and database technologies, I thrive on solving complex problems and optimizing solutions for performance. I specialize in backend systems, full-stack development, and creating seamless user experiences.
@@ -36,3 +36,4 @@ I’m a passionate software engineer who loves exploring new technologies and bu
 ## 📈 Contribution Graph
 ![Snake Animation](https://github.com/PackmarRionLouji/PackmarRionLouji/blob/output/github-contribution-grid-snake.svg)
 
+-->
