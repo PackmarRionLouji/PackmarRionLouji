@@ -14,9 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm Rion Louji
+## Hi, I’m Rion Louji 👋
 
-- 🔭 I’m working on **exciting projects**!
+🚀 About Me
+
+I’m a passionate software engineer who loves exploring new technologies and building impactful projects. With expertise in JavaScript, Python, and database technologies, I thrive on solving complex problems and optimizing solutions for performance. I specialize in backend systems, full-stack development, and creating seamless user experiences.
+
+💻 Tech Stack
+	•	Languages: JavaScript (Node.js, Express, Fastify), Python, Java
+	•	Frontend: Vue.js, HTML, CSS
+	•	Databases: PostgreSQL, MySQL, MongoDB, Redis
+	•	DevOps: Docker, AWS, GitHub, Jenkins
+	•	Tools: Webpack, Git, Nginx
+
 - 🌱 Currently learning **Node.js, Vue.js, MySql, AWS, NoSQL, HTML, and CSS**.
 - 📫 Reach me at **sjrion01@gmail.com**.
 
