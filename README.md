@@ -26,8 +26,6 @@ I’m a passionate software engineer who loves exploring new technologies and bu
   - Databases: PostgreSQL, MySQL, MongoDB, Redis
   - DevOps: Docker, AWS, GitHub, Jenkins
   - Tools: Webpack, Git, Nginx
-- 🌱 Currently learning **Node.js, Vue.js, MySql, AWS, NoSQL, HTML, and CSS**.
-- 📫 Reach me at **sjrion01@gmail.com**.
 
 ## 📊 GitHub Stats
 ![Rion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PackmarRionLouji&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
