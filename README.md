@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PackmarRionLouji&theme=gruvbox&no-frame=true&margin-w=15)
 
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PackmarRionLouji&theme=rogue)
+![Snake Animation](https://github.com/PackmarRionLouji/PackmarRionLouji/blob/output/github-contribution-grid-snake.svg)
 
