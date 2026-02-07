@@ -38,22 +38,25 @@ I'm a passionate **Software Engineer** who loves exploring new technologies and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PackmarRionLouji&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PackmarRionLouji&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PackmarRionLouji&show_icons=true&theme=radical" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PackmarRionLouji&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PackmarRionLouji&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PackmarRionLouji&theme=radical" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PackmarRionLouji&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=PackmarRionLouji&theme=radical&no-frame=true" />
+</p>
 
 ---
 
