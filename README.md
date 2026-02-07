@@ -142,38 +142,30 @@ const rionLouji = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-<h3>🔧 Backend Excellence</h3>
-Node.js Ecosystem<br>
-API Design<br>
-Database Optimization<br>
-Queue Management
-</td>
-<td width="25%" align="center">
-<h3>🎨 Frontend Skills</h3>
-Vue 3 Mastery<br>
-Modern UI/UX<br>
-Responsive Design<br>
-State Management
-</td>
-<td width="25%" align="center">
-<h3>☁️ DevOps Knowledge</h3>
-Docker & CI/CD<br>
-AWS Services<br>
-Serverless Architecture<br>
-Infrastructure as Code
-</td>
-<td width="25%" align="center">
-<h3>🤝 Soft Skills</h3>
-Problem Solving<br>
-Team Collaboration<br>
-Code Reviews<br>
-Documentation
-</td>
-</tr>
-</table>
+```mermaid
+mindmap
+  root((Rion Louji))
+    Backend Excellence
+      Node.js Ecosystem
+      API Design
+      Database Optimization
+      Queue Management
+    Frontend Skills
+      Vue 3 Mastery
+      Modern UI/UX
+      Responsive Design
+      State Management
+    DevOps Knowledge
+      Docker & CI/CD
+      AWS Services
+      Serverless Architecture
+      Infrastructure as Code
+    Soft Skills
+      Problem Solving
+      Team Collaboration
+      Code Reviews
+      Documentation
+```
 
 </div>
 
