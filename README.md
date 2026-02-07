@@ -16,15 +16,16 @@
 const rionLouji = {
     title: "Software Engineer",
     location: "Building the Future 🌍",
-    code: ["JavaScript", "Python", "Java", "TypeScript"],
+    code: ["JavaScript", "Python", "Java"],
     passion: "Turning coffee into scalable systems ☕ → 🚀",
     
     expertise: {
         backend: ["Node.js", "Fastify", "Express", "Bull Queue"],
-        frontend: ["Vue", "Vite", "Modern CSS"],
-        databases: ["PostgreSQL", "Redis", "MongoDB", "MySQL"],
-        cloud: ["AWS", "Docker", "Jenkins"],
-        architecture: ["Microservices", "Event-Driven", "RESTful APIs"]
+        frontend: ["Vue 3", "Vite", "Pinia", "Element Plus"],
+        databases: ["PostgreSQL", "Redis", "MongoDB", "MySQL", "Sequelize ORM"],
+        cloud: ["AWS S3", "IAM", "Docker", "Jenkins"],
+        architecture: ["Microservices", "Event-Driven", "RESTful APIs", "Distributed Systems"],
+        tools: ["Distributed Locking", "Rate Limiting", "JWT Auth", "i18n", "Axios"]
     },
     
     currentMission: "Architecting high-performance logistics solutions",
@@ -40,7 +41,7 @@ const rionLouji = {
         "Believe in code reviews > code cowboys 🤠"
     ],
     
-    goals2026: ["Master Distributed Systems", "Contribute to OSS", "Build Something Amazing"],
+    goals2024: ["Master Distributed Systems", "Contribute to OSS", "Build Something Amazing"],
     
     reachMe: "sjrion01@gmail.com"
 };
@@ -50,7 +51,7 @@ const rionLouji = {
 
 ### 💡 What Drives Me
 
-**Performance Optimization** • **Clean Architecture** • **Scalable Solutions** • **Team Collaboration**
+**Performance Optimization** • **Clean Architecture** • **Scalable Solutions** • **Distributed Systems** • **Team Collaboration**
 
 </div>
 
@@ -62,12 +63,12 @@ const rionLouji = {
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) |
-| **Frontend** | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Database** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Pinia](https://img.shields.io/badge/pinia-ffd859?style=for-the-badge&logo=vue.js&logoColor=white) ![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white) |
+| **Database & ORM** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
-| **Tools & Others** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Tools & Libraries** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white) ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white) |
 
 </div>
 
@@ -122,7 +123,7 @@ const rionLouji = {
 
 | 🔨 Building | 📚 Learning | 🎓 Exploring |
 |:---:|:---:|:---:|
-| Multi-Model Logistics Platform | System Design Patterns | Distributed Systems |
+| Enterprise Logistics Platform | System Design Patterns | Distributed Systems |
 | High-Performance APIs | Cloud Architecture | Event-Driven Architecture |
 | Scalable Microservices | Performance Optimization | Container Orchestration |
 
@@ -143,7 +144,7 @@ mindmap
       Database Optimization
       Queue Management
     Frontend Skills
-      Vue Mastery
+      Vue 3 Mastery
       Modern UI/UX
       Responsive Design
     DevOps Knowledge
@@ -169,7 +170,7 @@ mindmap
 |:---|:---|:---|
 | 🚚 **Logistics Management Platform** | Enterprise solution for shipment tracking and management | Fastify, PostgreSQL, Redis, Bull, AWS |
 | 🔄 **Real-time Queue System** | Event-driven background job processor | Bull, Redis, Node.js |
-| 🎨 **Modern Dashboard** | Vue admin panel with Vite | Vue, Vite, CSS3 |
+| 🎨 **Modern Dashboard** | Vue 3 admin panel with Vite | Vue 3, Vite, CSS3 |
 
 </div>
 
