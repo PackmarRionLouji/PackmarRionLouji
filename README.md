@@ -23,7 +23,7 @@ const rionLouji = {
         backend: ["Node.js", "Fastify", "Express", "Bull Queue"],
         frontend: ["Vue", "Vite", "Modern CSS"],
         databases: ["PostgreSQL", "Redis", "MongoDB", "MySQL"],
-        cloud: ["AWS (S3, IAM)", "Docker", "Jenkins"],
+        cloud: ["AWS", "Docker", "Jenkins"],
         architecture: ["Microservices", "Event-Driven", "RESTful APIs"]
     },
     
