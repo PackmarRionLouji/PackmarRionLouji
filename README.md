@@ -40,7 +40,7 @@ const rionLouji = {
         "Believe in code reviews > code cowboys 🤠"
     ],
     
-    goals2024: ["Master Distributed Systems", "Contribute to OSS", "Build Something Amazing"],
+    goals2026: ["Master Distributed Systems", "Contribute to OSS", "Build Something Amazing"],
     
     reachMe: "sjrion01@gmail.com"
 };
