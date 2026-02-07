@@ -14,7 +14,6 @@ I’m a passionate **Software Engineer** who loves exploring new technologies an
 
 - 🔭 I’m currently working on **High-performance Backend Systems**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
-- 👯 I’m looking to collaborate on **Open Source Python Projects**
 - ⚡ Fun fact: **I can debug code in my sleep (almost)!**
 
 ---
