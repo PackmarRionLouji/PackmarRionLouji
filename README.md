@@ -41,7 +41,10 @@ const rionLouji = {
         "Believe in code reviews > code cowboys 🤠"
     ],
     
-    goals2024: ["Master Distributed Systems", "Contribute to OSS", "Build Something Amazing"],
+    goals2026: ["Master Distributed Systems", "Contribute to OSS", "Build Something Amazing"],
+    
+    futureAmbition: "Building AI-powered medical systems for autonomous surgical assistance",
+    interests: ["Healthcare Technology", "Medical Robotics", "AI in Surgery", "Life-saving Systems"],
     
     reachMe: "sjrion01@gmail.com"
 };
@@ -52,6 +55,10 @@ const rionLouji = {
 ### 💡 What Drives Me
 
 **Performance Optimization** • **Clean Architecture** • **Scalable Solutions** • **Distributed Systems** • **Team Collaboration**
+
+### 🎯 Future Vision
+
+**Passionate about leveraging technology for healthcare** — Building AI-powered systems for autonomous surgical assistance and medical robotics that can save lives without human intervention.
 
 </div>
 
