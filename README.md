@@ -3,6 +3,9 @@
 </div>
 
 <p align="center">
+  <a href="https://rion-louji.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4FC08D?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=PackmarRionLouji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/PackmarRionLouji?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/PackmarRionLouji?label=Stars&style=social" alt="GitHub Stars" />
